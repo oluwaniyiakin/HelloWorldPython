@@ -1,23 +1,27 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is a basic Python program that prints "Hello, World!" to the console. As a software engineer in training, I created this software to continue developing my skills with Python programming and version control using Git and GitHub.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of this project is to ensure that I can successfully set up a development environment, create and run a simple program, document my code, and publish it to a public GitHub repository. It also helps me practice creating instructional videos and documenting my work professionally.
 
 [Software Demo Video](https://www.youtube.com/watch?feature=shared&v=QiyI_taLnnE)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- Visual Studio Code (VS Code)
+- Git for version control
+- GitHub for repository hosting
+- Python 3.12
 
-{Describe the programming language that you used}
+# Programming Language
+
+- Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](www.python.org/)
-* [Web Site Name](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Official Python Documentation](https://www.python.org/)
+* [Python (Wikipedia)](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [VS Code Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [GitHub Docs](https://docs.github.com/en)
+
