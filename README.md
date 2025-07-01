@@ -8,7 +8,7 @@
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?feature=shared&v=QiyI_taLnnE)
 
 # Development Environment
 
@@ -19,5 +19,5 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](www.python.org/)
+* [Web Site Name](https://en.wikipedia.org/wiki/Python_(programming_language))
